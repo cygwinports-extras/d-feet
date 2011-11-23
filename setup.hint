@@ -1,0 +1,6 @@
+category: Devel
+requires: python python-dbus python-gobject python-gtk2.0 python-wnck
+sdesc: "D-Bus debugger"
+ldesc: "D-Bus is a messaging library used on the Desktop. D-Feet can be 
+used to inspect D-Bus interfaces of running programs and invoke methods 
+on those interfaces."
