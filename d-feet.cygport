@@ -1,0 +1,10 @@
+inherit distutils gnome.org
+
+NAME="d-feet"
+VERSION=0.1.15
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="D-Bus debugger"
+DESCRIPTION="D-Bus is a messaging library used on the Desktop. D-Feet can be
+used to inspect D-Bus interfaces of running programs and invoke methods on
+those interfaces."
