@@ -2,7 +2,7 @@ inherit distutils gnome.org
 
 NAME="d-feet"
 VERSION=0.1.15
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="D-Bus debugger"
 DESCRIPTION="D-Bus is a messaging library used on the Desktop. D-Feet can be
