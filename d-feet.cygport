@@ -1,7 +1,7 @@
 inherit gnome2 python
 
 NAME="d-feet"
-VERSION=0.3.6
+VERSION=0.3.8
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="D-Bus debugger"
@@ -9,6 +9,8 @@ DESCRIPTION="D-Bus is a messaging library used on the Desktop. D-Feet can be
 used to inspect D-Bus interfaces of running programs and invoke methods on
 those interfaces."
 REQUIRES="girepository-Gtk3.0 girepository-Wnck3.0"
+
+ARCH=noarch
 
 # requires pep8
 CYGCONF_ARGS="--disable-tests"
